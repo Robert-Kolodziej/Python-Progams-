@@ -1,0 +1,9 @@
+1 adjective: 
+2 nationality: 
+3 name: 
+4 noun: 
+5 adjective: 
+6 plural_noun: 
+7 number: 
+8 plural_shape: 
+9 food: 

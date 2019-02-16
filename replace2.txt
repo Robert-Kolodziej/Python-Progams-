@@ -1,0 +1,9 @@
+1 number: 
+2 adjective: 
+3 noun: 
+4 noun: 
+5 noun: 
+6 verb-ing: 
+7 verb-ing: 
+8 beverage: 
+9 food: 
